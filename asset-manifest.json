@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/henadialani/Cars-on-rent/static/css/main.854fae6f.chunk.css",
+    "main.js": "/henadialani/Cars-on-rent/static/js/main.28c8f5f4.chunk.js",
+    "main.js.map": "/henadialani/Cars-on-rent/static/js/main.28c8f5f4.chunk.js.map",
+    "runtime-main.js": "/henadialani/Cars-on-rent/static/js/runtime-main.1f743379.js",
+    "runtime-main.js.map": "/henadialani/Cars-on-rent/static/js/runtime-main.1f743379.js.map",
+    "static/js/2.0968ac6d.chunk.js": "/henadialani/Cars-on-rent/static/js/2.0968ac6d.chunk.js",
+    "static/js/2.0968ac6d.chunk.js.map": "/henadialani/Cars-on-rent/static/js/2.0968ac6d.chunk.js.map",
+    "index.html": "/henadialani/Cars-on-rent/index.html",
+    "precache-manifest.321bca972ef4f4a467c41ce35f1db53c.js": "/henadialani/Cars-on-rent/precache-manifest.321bca972ef4f4a467c41ce35f1db53c.js",
+    "service-worker.js": "/henadialani/Cars-on-rent/service-worker.js",
+    "static/css/main.854fae6f.chunk.css.map": "/henadialani/Cars-on-rent/static/css/main.854fae6f.chunk.css.map",
+    "static/js/2.0968ac6d.chunk.js.LICENSE.txt": "/henadialani/Cars-on-rent/static/js/2.0968ac6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/henadialani/Cars-on-rent/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f743379.js",
+    "static/js/2.0968ac6d.chunk.js",
+    "static/css/main.854fae6f.chunk.css",
+    "static/js/main.28c8f5f4.chunk.js"
+  ]
+}
