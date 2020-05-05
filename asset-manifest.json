@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Cars-on-rent/static/css/main.854fae6f.chunk.css",
-    "main.js": "/Cars-on-rent/static/js/main.28c8f5f4.chunk.js",
-    "main.js.map": "/Cars-on-rent/static/js/main.28c8f5f4.chunk.js.map",
-    "runtime-main.js": "/Cars-on-rent/static/js/runtime-main.e7f46f30.js",
-    "runtime-main.js.map": "/Cars-on-rent/static/js/runtime-main.e7f46f30.js.map",
-    "static/js/2.0968ac6d.chunk.js": "/Cars-on-rent/static/js/2.0968ac6d.chunk.js",
-    "static/js/2.0968ac6d.chunk.js.map": "/Cars-on-rent/static/js/2.0968ac6d.chunk.js.map",
-    "index.html": "/Cars-on-rent/index.html",
-    "precache-manifest.65d159d07e16f6eaf4c258aef2a7ca11.js": "/Cars-on-rent/precache-manifest.65d159d07e16f6eaf4c258aef2a7ca11.js",
-    "service-worker.js": "/Cars-on-rent/service-worker.js",
-    "static/css/main.854fae6f.chunk.css.map": "/Cars-on-rent/static/css/main.854fae6f.chunk.css.map",
-    "static/js/2.0968ac6d.chunk.js.LICENSE.txt": "/Cars-on-rent/static/js/2.0968ac6d.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/Cars-on-rent/static/media/logo.5d5d9eef.svg"
+    "main.css": "/CarsOnRent/static/css/main.854fae6f.chunk.css",
+    "main.js": "/CarsOnRent/static/js/main.28c8f5f4.chunk.js",
+    "main.js.map": "/CarsOnRent/static/js/main.28c8f5f4.chunk.js.map",
+    "runtime-main.js": "/CarsOnRent/static/js/runtime-main.05e764ec.js",
+    "runtime-main.js.map": "/CarsOnRent/static/js/runtime-main.05e764ec.js.map",
+    "static/js/2.0968ac6d.chunk.js": "/CarsOnRent/static/js/2.0968ac6d.chunk.js",
+    "static/js/2.0968ac6d.chunk.js.map": "/CarsOnRent/static/js/2.0968ac6d.chunk.js.map",
+    "index.html": "/CarsOnRent/index.html",
+    "precache-manifest.2694678f176b9b922efc349ae2777778.js": "/CarsOnRent/precache-manifest.2694678f176b9b922efc349ae2777778.js",
+    "service-worker.js": "/CarsOnRent/service-worker.js",
+    "static/css/main.854fae6f.chunk.css.map": "/CarsOnRent/static/css/main.854fae6f.chunk.css.map",
+    "static/js/2.0968ac6d.chunk.js.LICENSE.txt": "/CarsOnRent/static/js/2.0968ac6d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/CarsOnRent/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7f46f30.js",
+    "static/js/runtime-main.05e764ec.js",
     "static/js/2.0968ac6d.chunk.js",
     "static/css/main.854fae6f.chunk.css",
     "static/js/main.28c8f5f4.chunk.js"
